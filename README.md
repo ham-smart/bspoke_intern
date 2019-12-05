@@ -12,6 +12,9 @@ Project spec
 - Docker/Kubenate :deployment
 
 IntelliJ Community Download : https://www.jetbrains.com/idea/download/#section=windows
+
 Java 8 JDK download : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 Java 11 JDK download : https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
+
 Maven 3 download : https://maven.apache.org/download.cgi
