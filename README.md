@@ -18,3 +18,5 @@ Java 8 JDK download : https://www.oracle.com/technetwork/java/javase/downloads/j
 Java 11 JDK download : https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
 
 Maven 3 download : https://maven.apache.org/download.cgi
+
+Postman download : https://www.getpostman.com/downloads/
